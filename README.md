@@ -1,4 +1,4 @@
-# 👋 Привет! Я Иван - Digital Alchemist
+# 👋 Привет! Я Владислав - Digital Alchemist
 
 **Python Developer | AI Enthusiast | Digital Artist**  
 *Превращаю код в цифровую магию*
