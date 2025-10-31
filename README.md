@@ -7,7 +7,7 @@
 
 ## 🚀 Обо мне
 
-Я создаю инструменты на стыке **Python-разработки** и **искусственного интеллекта**, которые автоматизируют рутину и открывают новые возможности для творчества. Моя страсть — находить элегантные технические решения для сложных задач.
+Я создаю инструменты с помощью **Python** и **искусственного интеллекта**, которые автоматизируют рутину и открывают новые возможности для творчества. Моя страсть — создавать новые и удобные решения для сложных проблем.
 
 ## 💼 Ключевые направления
 
@@ -30,39 +30,18 @@
 
 **Основные:**
 # Мои главные инструменты
-{
-    "Языки": ["Python", "SQL", "JavaScript"],
-    "Фреймворки": ["Django", "FastAPI", "React"],
-    "AI/ML": ["TensorFlow", "PyTorch", "OpenAI API", "Computer Vision"],
-    "Автоматизация": ["Selenium", "BeautifulSoup", "API Integration"],
-    "Базы данных": ["PostgreSQL", "MongoDB", "Redis"],
-    "Инфраструктура": ["Docker", "Git", "Linux", "AWS"]
-}
+...
 
 📈 Мои проекты
-💡 Большинство моих коммерческих проектов являются приватными в связи с NDA и коммерческой тайной
+💡 Большинство моих коммерческих проектов являются приватными в связи с NDA или коммерческой тайной
 
 🔒 Приватные проекты (выборочно):
-AI-Powered Social Suite - Комплексная система автоматизации постинга с AI-генерацией контента
-
-Content Scheduler Pro - Интеллектуальный планировщик для 10+ социальных платформ
-
-Analytics Dashboard - Дашборд аналитики с ML-предсказаниями эффективности контента
-
-Auto-Posting Framework - Модульный фреймворк для быстрого развёртывания систем автоматизации
-
-🌟 Публичные проекты:
-*// Здесь разместите 3-4 ваших лучших публичных проекта с описанием и ссылками*
-
-📊 Статистика GitHub
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical
+...
 
 🎨 За пределами кода
 🎯 Создаю цифровое искусство и аниме-арты
 
-📚 Изучаю новые подходы в AI и машинном обучении
+📚 Изучаю новые подходы для автоматизации с использованием AI 
 
 🌱 Постоянно экспериментирую с новыми технологиями
 
@@ -73,6 +52,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layo
 💬 Boosty: [Boosty]
 
 ✨ Готов к сотрудничеству и интересным проектам!
-   ```markdown
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-   ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Digital Art](https://img.shields.io/badge/Digital_Art-FF69B4?style=for-the-badge&logo=affinity&logoColor=white)
+![Anime Art](https://img.shields.io/badge/Anime_Art-FF1493?style=for-the-badge&logo=line&logoColor=white)
+![PaintTool SAI](https://img.shields.io/badge/PaintTool_SAI-8A2BE2?style=for-the-badge&logo=paintbrush&logoColor=white)
+![Digital Painting](https://img.shields.io/badge/Digital_Painting-9370DB?style=for-the-badge&logo=colors&logoColor=white)
+
