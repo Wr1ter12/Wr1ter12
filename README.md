@@ -1,4 +1,4 @@
-# 👋 Привет! Я Владислав - Digital Alchemist <img src="MayaIdleHD.gif" width="512" alt="Maya">
+# 👋 Привет! Я Владислав - Digital Alchemist <img src="assets/MayaIdleHD.gif" width="40" alt="Maya">
 
 **Python Developer | AI Enthusiast | Digital Artist**  
 *Превращаю код в цифровую магию*
@@ -18,13 +18,20 @@
 
 ### 🎨 Creative Coding
 - Совмещение технических навыков с визуальным искусством
-- Генеративное искусство и компьютерная графика
 - Инструменты для цифровых художников
 
 ## 🔧 Технологический стек
 
-**Основные:**
-...
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Digital Art](https://img.shields.io/badge/Digital_Art-FF69B4?style=for-the-badge&logo=affinity&logoColor=white)
+![Anime Art](https://img.shields.io/badge/Anime_Art-FF1493?style=for-the-badge&logo=line&logoColor=white)
+![PaintTool SAI](https://img.shields.io/badge/PaintTool_SAI-8A2BE2?style=for-the-badge&logo=paintbrush&logoColor=white)
+![Digital Painting](https://img.shields.io/badge/Digital_Painting-9370DB?style=for-the-badge&logo=colors&logoColor=white)
 
 ## 📈 Мои проекты <br />
 💡 Большинство моих коммерческих проектов являются приватными в связи с NDA или коммерческой тайной
@@ -42,19 +49,7 @@
 ## 📫 Контакты <br />
 💼 Профессиональная почта: v.krugov.alchemy@yandex.ru <br /> <br />
 📱 Telegram: [Telegram]<br /> <br />
-🎨 YouTube: [YouTube]<br /> <br />
+🎨 VK Video: [YouTube]<br /> <br />
 💬 Boosty: [Boosty]
 
 ✨ Готов к сотрудничеству и интересным проектам!
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Digital Art](https://img.shields.io/badge/Digital_Art-FF69B4?style=for-the-badge&logo=affinity&logoColor=white)
-![Anime Art](https://img.shields.io/badge/Anime_Art-FF1493?style=for-the-badge&logo=line&logoColor=white)
-![PaintTool SAI](https://img.shields.io/badge/PaintTool_SAI-8A2BE2?style=for-the-badge&logo=paintbrush&logoColor=white)
-![Digital Painting](https://img.shields.io/badge/Digital_Painting-9370DB?style=for-the-badge&logo=colors&logoColor=white)
-
