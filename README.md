@@ -1,4 +1,4 @@
-# 👋 Привет! Я Владислав - Digital Alchemist
+# 👋 Привет! Я Владислав - Digital Alchemist <img src="MayaIdleHD.gif" width="512" alt="Maya">
 
 **Python Developer | AI Enthusiast | Digital Artist**  
 *Превращаю код в цифровую магию*
