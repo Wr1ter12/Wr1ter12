@@ -47,7 +47,7 @@
 🌱 Постоянно экспериментирую с новыми технологиями
 
 ## 📫 Контакты <br />
-💼 Профессиональная почта: v.krugov.alchemy@yandex.ru <br /> <br />
+💼 Профессиональная почта: v.krugov.digital@yandex.ru <br /> <br />
 📱 Telegram: [Telegram]<br /> <br />
 🎨 VK Video: [YouTube]<br /> <br />
 💬 Boosty: [Boosty]
