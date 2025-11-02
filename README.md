@@ -65,7 +65,7 @@ I create tools using **Python** and **Artificial Intelligence** that automate ro
 - Memento AI - a flashcard application for memorizing information with AI-generated cards
 
 ### 📢 Public Projects
-💡 You can find these projects in my open repositories
+💡 You can find these projects in my open repositories: [Repos](https://github.com/Wr1ter12?tab=repositories)
 
 ## 🎨 Beyond Code
 🎯 I create cartoon and anime art
