@@ -21,7 +21,7 @@ I create tools using **Python** and **Artificial Intelligence** that automate ro
 - Combining technical skills with visual arts
 - Tools for digital artists
 
-## 🔧 Технологический стек
+## 🔧 Technology stack
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
