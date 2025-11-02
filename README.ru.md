@@ -53,6 +53,8 @@ EN [Read in English](README.md)
 ![Anime](https://img.shields.io/badge/Anime-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![Digital Art](https://img.shields.io/badge/Digital_Art-FF69B4?style=for-the-badge&logo=affinity&logoColor=white)
 ![PaintTool SAI](https://img.shields.io/badge/PaintTool_SAI-8A2BE2?style=for-the-badge&logo=paintbrush&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Pixel%20Art-green?style=for-the-badge)
+<img src="assets/MayaAndCat48.gif" width="40" alt="MayaAndCat">
 
 ## 📈 Мои проекты <br />
 💡 Большинство моих коммерческих проектов являются приватными в связи с NDA или коммерческой тайной.
