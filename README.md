@@ -1,4 +1,4 @@
-🇷🇺 [Читать на русском](README.ru.md)
+RU [Читать на русском](README.ru.md)
 # 👋 Hi! I'm Vladislav - Digital Alchemist <img src="assets/MayaIdleHD.gif" width="40" alt="Maya">
 
 **Python Developer | Digital Artist**  
