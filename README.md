@@ -53,6 +53,8 @@ I create tools using **Python** and **Artificial Intelligence** that automate ro
 ![Anime](https://img.shields.io/badge/Anime-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![Digital Art](https://img.shields.io/badge/Digital_Art-FF69B4?style=for-the-badge&logo=affinity&logoColor=white)
 ![PaintTool SAI](https://img.shields.io/badge/PaintTool_SAI-8A2BE2?style=for-the-badge&logo=paintbrush&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Pixel%20Art-green?style=for-the-badge)
+<img src="assets/MayaAndCat48.gif" width="40" alt="MayaAndCat">
 
 ## 📈 My Projects <br />
 💡 Most of my commercial projects are private due to NDA or commercial secrecy
