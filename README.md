@@ -6,6 +6,10 @@ RU [Читать на русском](README.ru.md)
 
 ---
 
+<img src="assets/Banner.png" width="100%" alt="Banner">
+
+---
+
 ## 🚀 About Me
 
 I create tools using **Python** and **Artificial Intelligence** that automate routines and unlock new possibilities for creativity. My passion is crafting novel and convenient solutions for complex problems.
