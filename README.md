@@ -80,7 +80,7 @@ I create tools using **Python** and **Artificial Intelligence** that automate ro
 
 ## 📫 Contacts <br />
 💼 Professional Email: v.krugov.digital@yandex.ru <br /> <br />
-📱 Telegram: [Telegram]<br /> <br />
-🎨 VK Video: [VK Video]
+📱 Telegram: [t.me/DigitalAlchemyCodeArt](https://t.me/DigitalAlchemyCodeArt)<br /> <br />
+🎨 YouTube: [@DigitalAlchemyCodeArt](https://www.youtube.com/@DigitalAlchemyCodeArt)
 
 ✨ Open to collaboration and interesting projects!
