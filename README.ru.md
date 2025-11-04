@@ -80,7 +80,7 @@ EN [Read in English](README.md)
 
 ## 📫 Контакты <br />
 💼 Профессиональная почта: v.krugov.digital@yandex.ru <br /> <br />
-📱 Telegram: [Telegram]<br /> <br />
-🎨 VK Video: [VK Video]
+📱 Telegram: [t.me/DigitalAlchemyCodeArt](https://t.me/DigitalAlchemyCodeArt)<br /> <br />
+🎨 YouTube: [@DigitalAlchemyCodeArt](https://www.youtube.com/@DigitalAlchemyCodeArt)
 
 ✨ Готов к сотрудничеству и интересным проектам!
